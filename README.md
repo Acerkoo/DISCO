@@ -43,8 +43,13 @@ We test the `F1 / EM` with `eval/eval.sh`, `OE / TE` with `eval/port_eval.sh`, a
 If you find this repo useful for your research, please consider citing our paper:
 
 > @article{sun2024outdated,
+  
   title={Outdated Issue Aware Decoding for Factual Knowledge Editing},
+  
   author={Sun, Zengkui and Liu, Yijin and Wang, Jiaan and Meng, Fandong and Xu, Jinan and Chen, Yufeng and Zhou, Jie},
+
   journal={arXiv preprint arXiv:2406.02882},
+  
   year={2024}
-}
+  
+  }
