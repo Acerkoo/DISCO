@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "/workspace/pretrained_models/baichuan2-7b-chat"
+sentence_model_name: "/workspace/pretrained_models/all-MiniLM-L6-v2"
+device: 0
+results_dir: "/mnt/peng/EasyEdit/results"
+
+k: 16
+model_parallel: false
